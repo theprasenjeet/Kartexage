@@ -17,7 +17,7 @@ Kartexa uses proprietary natural language processing technology to analyze and c
 
 To install Kartexa, follow the steps below:
 
-Clone the repository: git clone https://github.com/<username>/kartexa.git
+Clone the repository: git clone [https://github.com/theprasenjeet/Kartexage.git](https://github.com/theprasenjeet/Kartexage)
 Install dependencies: npm install
 Start the application: npm start
   
